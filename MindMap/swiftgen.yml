@@ -1,0 +1,13 @@
+xcassets:
+  inputs:
+    - MindMap/Resources/Assets.xcassets
+  outputs:
+    templateName: swift4
+    output: MindMap/Misc/Generated/Assets.swift
+strings:
+  inputs: MindMap/Resources/Base.lproj/Localizable.strings
+  filter: .+\.strings$
+  outputs:
+    - templateName: structured-swift4
+      output: MindMap/Misc/Generated/Localization.swift
+      params: {enumName: Localization}

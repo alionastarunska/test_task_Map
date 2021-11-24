@@ -1,0 +1,24 @@
+PODS:
+  - KeyboardAvoidingView (5.1.0):
+    - ViewState (>= 1.2.1)
+  - SwiftGen (6.4.0)
+  - ViewState (1.2.1)
+
+DEPENDENCIES:
+  - KeyboardAvoidingView (~> 5.0)
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - KeyboardAvoidingView
+    - SwiftGen
+    - ViewState
+
+SPEC CHECKSUMS:
+  KeyboardAvoidingView: f0321f6a297b0db778e34a1bf19ffaaad447e72b
+  SwiftGen: 67860cc7c3cfc2ed25b9b74cfd55495fc89f9108
+  ViewState: 2875f1b9e168a05ba14d3df1884e29333b65fe36
+
+PODFILE CHECKSUM: 5011dab5dad2489c5d526f099a4b3a8387b27920
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,14 @@
+"mainScreen.title" = "MIND MAP";
+"navigation.map.name" = "MIND MAP";
+
+"buttons.save" = "Save";
+"buttons.cancel" = "Cancel";
+"buttons.delete" = "Delete";
+"buttons.edit" = "Edit";
+
+"dialog.title" = "Enter your idea";
+"dialog.subtitle" = "the file will have the same name";
+"dialog.placeholder" = "Your idea";
+"dialog.delete.title" = "Confirm Deletion";
+"dialog.delete.file_subtitle" = "You are deleting root idea. The file will be deleted too";
+"dialog.delete.children_subtitle" = "All sub-ideas of this idea will be deleted too";

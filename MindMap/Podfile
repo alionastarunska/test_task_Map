@@ -1,0 +1,9 @@
+
+target 'MindMap' do
+  use_frameworks!
+
+  # Pods for MindMap
+	pod 'SwiftGen'
+  pod "KeyboardAvoidingView", '~> 5.0'
+  
+end
